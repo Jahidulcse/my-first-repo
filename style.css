@@ -6,3 +6,8 @@ h1{
     text-align: center;
     text-decoration: underline red;
 }
+body{
+   background-image: url("dadi.jpg");
+   background-repeat: no-repeat;
+   background-position:center;
+}
